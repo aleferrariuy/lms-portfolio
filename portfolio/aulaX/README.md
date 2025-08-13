@@ -8,7 +8,7 @@ References:
 
 -1- [afdata.uy ](https://afdata.uy)
 
--2- [ifastnet.com ]([https://afdata.uy](https://ifastnet.com/)
+-2- [ifastnet.com ](https://ifastnet.com/)
 
 -3- [🎓 aulax.aleferrari.uy ](https://aulax.aleferrari.uy)
 
