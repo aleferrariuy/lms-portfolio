@@ -8,7 +8,7 @@ Also, from my role in the IT Infrastructure Department, I put a Linux server run
 
 Although I left the institution in 2025, this tool remained available for use.
 
-### References: ###
+### 🎓 References: ###
 
 -1- [🏥 www.crami.com.uy ](https://www.crami.com.uy)
 
@@ -16,6 +16,10 @@ Although I left the institution in 2025, this tool remained available for use.
 
 -3- [🎓 kpacitaciones.crami.com.uy ](https://kpacitaciones.crami.com.uy)
 
-### Login screen: ###
----
+### 📸 Screenshoots: ###
+
+#### Login screen ####
+
 ![](login-screen.png)
+
+---
