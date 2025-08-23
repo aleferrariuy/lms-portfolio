@@ -22,4 +22,8 @@ Although I left the institution in 2025, this tool remained available for use.
 
 ![](login-screen.png)
 
+<div style="text-align: center;">
+<img style="width: 700px;height: auto;" src="https://github.com/aleferrariuy/lms-portfolio/blob/main/portfolio/kpacitaciones/login-screen.png">
+</div>
+
 ---
